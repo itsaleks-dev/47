@@ -1,6 +1,6 @@
-// src/components/Form.jsx
 import { Formik, Form } from "formik";
 import * as Yup from "yup";
+
 import Input from "./Input";
 
 const validationSchema = Yup.object({
